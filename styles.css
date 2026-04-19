@@ -1,0 +1,67 @@
+/* Give Em Face website styles */
+
+/* Page background and font */
+body {
+   margin: 0;
+   font-family: Arial, Helvetica, sans-serif;
+   background: linear-gradient(to bottom, #fdf0f5, #f8d7e6);
+   color: #333333;
+}
+
+/* Header styling */
+header {
+   text-align: center;
+   font-size: 1.2em;
+   font-weight: bold;
+   padding: 20px;
+   background-color: #d96c9d;
+   color: white;
+}
+
+/* Navigation menu */
+nav ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   display: flex;
+   justify-content: center;
+   gap: 20px;
+}
+
+nav ul li a {
+   text-decoration: none;
+   color: white;
+   padding: 10px 15px;
+   border-radius: 5px;
+}
+
+/* Hover effect for links */
+nav ul li a:hover {
+   background-color: white;
+   color: #d96c9d;
+}
+
+/* Main content sections */
+section {
+   background-color: white;
+   margin: 20px;
+   padding: 20px;
+   border: 1px solid #e5b3c6;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   border-radius: 8px;
+}
+
+/* Section headings */
+section h2 {
+   color: #b84d7a;
+}
+
+/* Footer styling */
+footer {
+   font-size: 0.85em;
+   text-align: center;
+   background-color: #333333;
+   color: white;
+   padding: 15px;
+   margin-top: 20px;
+}
