@@ -65,6 +65,39 @@ footer {
    padding: 15px;
    margin-top: 20px;
 }
+/* Give Em Face Styling - Layout, Table, and Transitions */
 nav ul li a {
    transition: background-color 0.3s ease, color 0.3s ease;
+}
+section {
+   transition: transform 0.3s ease;
+}
+
+section:hover {
+   transform: scale(1.02);
+}
+table {
+   width: 100%;
+   border-collapse: collapse;
+   margin-top: 20px;
+}
+
+th, td {
+   border: 1px solid #ccc;
+   padding: 10px;
+   text-align: left;
+}
+
+th {
+   background-color: #d96c9d;
+   color: white;
+}
+
+caption {
+   font-weight: bold;
+   margin-bottom: 10px;
+}
+table img {
+   width: 100px;
+   border-radius: 5px;
 }
