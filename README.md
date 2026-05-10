@@ -1,44 +1,95 @@
-# My Web Project
+# My Web Development Project
 
 ## Project Description
-This project demonstrates the use of HTML, CSS, and web hosting concepts. The website was developed as part of a web development assignment and includes responsive design and accessibility considerations.
+
+This project was created as part of a web development assignment focused on website design, accessibility, hosting, and local deployment. The website demonstrates the use of HTML and CSS to create a responsive and user-friendly webpage while following accessibility best practices based on WCAG standards.
 
 ---
 
 ## Features
-- Responsive webpage design
-- Accessible navigation and readable layout
-- Hosted using GitHub Pages
-- Locally tested using XAMPP
+
+* Responsive webpage layout
+* Mobile-friendly design
+* Accessible navigation structure
+* Readable text and organized content
+* GitHub Pages hosting
+* Local hosting using XAMPP
 
 ---
 
 ## Technologies Used
-- HTML5
-- CSS3
-- GitHub Pages
-- XAMPP
+
+* HTML5
+* CSS3
+* GitHub Pages
+* XAMPP
 
 ---
 
 ## GitHub Pages Live Website
+
 https://nakendra-mceachern.github.io/NakMcE5302/
 
+---
+
+## Repository Link
+
+https://github.com/Nakendra-McEachern/NakMcE5302
 
 ---
 
-## Running the Project Locally with XAMPP
+## Running the Website Locally Using XAMPP
 
-### Step 1: Install XAMPP
-1. Download XAMPP from:
-   https://www.apachefriends.org/
 
-2. Install XAMPP on your computer.
+C:\xampp\htdocs\NAKMCE5302
 
 ---
 
-### Step 2: Move Project Files
-1. Locate the `htdocs` folder inside your XAMPP installation directory.
-2. Copy your project folder into the `htdocs` folder.
+### Step 3: Start Apache
 
-Example:
+1. Open the XAMPP Control Panel.
+2. Start the Apache module.
+
+---
+
+### Step 4: Launch the Website
+
+Open your web browser and enter the following URL:
+
+http://localhost/NAKMCE5302
+
+
+
+---
+
+## Screenshot of Local Website
+
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/44f3f8ef-7b9f-4ff7-86fb-2551a44402eb" />
+
+
+---
+
+## Accessibility Features
+
+This project includes several accessibility considerations, including:
+
+* Semantic HTML elements
+* Readable font sizes
+* Clear navigation structure
+* Mobile responsiveness
+* Proper color contrast
+* Alternative text for images where applicable
+
+These features help improve usability for all users, including individuals with disabilities.
+
+---
+
+## Author
+
+Nakendra McEachern
+
+---
+
+
+
+
